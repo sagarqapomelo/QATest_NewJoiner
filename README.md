@@ -14,8 +14,8 @@ can take order online for clothes and Accessory .The delivery charges will be ca
 Customer will get discount if customer residence is within 10KM on 
 Shop or if he order is more than 200 THB and more than 10KM will be calculated as usual
 
-
-Index Formula
+**
+Index Formula**
 Delivered vehicle type will be selected by calculating with number of order(Boxes).
 
 
@@ -31,7 +31,7 @@ accessory box = 1 per box
 
 Cosider one box can have one product or multiple product charges will be on box not specific to product 
 
-Examples
+**Examples**
 
 
 Order 20 x clothe boxes and 10 x accessory boxes
@@ -56,7 +56,7 @@ Then select 'GRABCAR' for delivery
 Delivery Charge Formula
 
 
-POMELO WHEEL
+**POMELO WHEEL**
 
 Started at 10 THB
 
@@ -67,7 +67,7 @@ Distance above 31 Kilometers = 14 THB / Kilometers
 Delivery Charge will be included 10%
 
 
-GRABCAR
+**GRABCAR**
 
 Started at 20 THB
 
@@ -88,7 +88,7 @@ Deliver charge will be calculated as usual without discount offer
 
 
 How logic works
-Example#1
+**Example#1**
 
 Order 20 x clothe boxes and 14 x accessory boxes
 
@@ -112,8 +112,8 @@ Included service charged 10% = 118 * 1.10 = 129.8 ~ 130
 
 Total Delivery charges = 170 - 130 = 40 THB
 
-Example#2
-
+**Example#2
+**
 Ordered 20 x Meal Boxes and 14 x Dessert Boxes
 Order 20 x clothe boxes and 14 x accessory boxes
 
@@ -134,7 +134,7 @@ Then 20 + (15 * 12) = 200 THB
 Included service charged 10% = 200 * 1.10 = 210
 
 Total Delivery charges = 286 - 210 = 76 THB
-Example#3
+**Example#3**
 
 Ordered 38 x Dessert Boxes
 ordered 38 X acessory boxes
