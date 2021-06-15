@@ -3,16 +3,16 @@
 Test challenge for POMELO QA Engineer
 
 
-The Fashion Company Provide product delivery for there orders 
+The Fashion Company Provides product delivery for there orders 
 can take order online for the Fashion clothes and  Fashion accessory .The delivery charges will be calculated depends on of 
 -Number of Boxes.
--TodalPrice 
+-Total Price 
 -Range(Distance)
 -customer type
 -Service chanrge
 
 Customer will get discount if customer residence is within 15KM from
-Pomelo Shop(Store) or if order price is more than 200 THB. and more than 10KM will be calculated as usual
+Pomelo Shop(Store) or if order price is more than 200 THB. and more than 15KM will be calculated as usual
 
 ************************************************************
 **Index Formula****
